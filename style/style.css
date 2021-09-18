@@ -1,0 +1,69 @@
+header{
+    padding-top: 1vh;
+    padding-bottom: 4vh;
+    justify-content: center;
+    text-align: center;    
+    opacity: 1;
+}
+.jeder{
+    height: 10vh;
+    background-color: rgba(255, 255, 255, 0.85);
+    width: 70vw;
+    justify-content: center;
+    margin: auto;
+}
+
+body{
+    background-color: rgb(240, 240, 240);
+}
+
+.bigcontainer{
+    background-color: rgba(255, 255, 255, 0.85);
+    margin: auto;
+    width: 70vw;
+    height: 90vh;
+    justify-content: center;
+    text-align: center;
+    margin-top: 3vh;
+    padding-top: 3vh;
+
+}
+   /*.medium{
+    margin: auto;
+    width: 70vw;
+
+}*/
+.uele{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 5vh;
+
+/*    display: flex;
+    justify-content: space-around;    */
+}
+.elei {padding-bottom: 5vh;}
+
+.simply-word{
+    padding-right: 1vw;
+}
+.tiempo{
+    display: flex;
+    justify-content: center;
+}
+.tiempoooo{
+    display: flex;
+    justify-content: center;
+}
+.mynav{
+
+    margin: auto;
+}
+.giantcontainer{
+    
+    text-align: center;
+    margin: auto;
+    background-color: white;
+    width: 70vw;
+    height: 100vh;
+}
